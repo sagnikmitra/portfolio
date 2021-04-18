@@ -86,6 +86,7 @@ video {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+    background-color: black;
 }
 
 article,
@@ -502,7 +503,7 @@ header .navigation-bar nav ul ul ul {
 .main-banner .banner-text>h2 span {
     display: inline-block;
     color: #f37335;
-    text-decoration: none !important;
+    position: relative;
 }
 
 .main-banner .banner-text>h2 span:hover:before {
