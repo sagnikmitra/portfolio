@@ -38,8 +38,11 @@
     .course-section {
         padding-bottom: 70px;
     }
-    .blog-section .blog-posts .blog-post .blog-info>h3 {
-        font-size: 18px;
+    .blog-thumbnail {
+        margin-left: -20px;
+    }
+    .blog-post {
+        margin-left: 20px;
     }
     .blog-section {
         padding-bottom: 70px;
