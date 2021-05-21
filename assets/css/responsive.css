@@ -509,6 +509,9 @@
     .mdp-map iframe {
         height: 300px;
     }
+    .blog-post iframe {
+        margin-left: -25px;
+    }
     .mdp-contact .comment-area h3,
     .mdp-contact .mdp-our-contacts h3 {
         font-size: 30px;
