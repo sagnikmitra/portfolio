@@ -149,6 +149,10 @@
         font-size: 44px;
         line-height: 58px;
     }
+    .main-banner .banner-text>h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
     .about-us-section .about-sec .abt-col {
         margin-bottom: 30px;
     }
